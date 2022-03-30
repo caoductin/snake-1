@@ -38,4 +38,4 @@ int main(){
 			 setting();
 			 break;} 
    }
-}
+}//cao duc tin
